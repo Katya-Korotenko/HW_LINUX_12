@@ -1,0 +1,28 @@
+  1  git init
+  2  git clone git@github.com:Katya-Korotenko/HW_LINUX_12.git
+  3  cd HW_LINUX_12/
+  4  git branch
+  5  git log
+  6  git checkout -b  feature
+  7  touch README.md  .gitignore
+  8  git add.
+  9  git status
+  10  git add.
+  11 git status
+  12  git add.
+  13  git add .
+  14  git status
+  15  nano gitignore
+  16  ls -la
+  17  nano README.md
+  18  git status
+  19  git commit -m "modified file"
+  20  git push --set-upstream origin feature
+  21  git commit --amend
+  22  git branch main
+  23  git branch
+  24  git switch main
+  25  git merge feature
+  26  git log
+  27  git push
+  28  history > history.txt
